@@ -1,6 +1,6 @@
 # Course Module
 
-## [Introduction](Modules/211226/Introduction.md)
+## [Introduction](Modules/211226/)
 
 ## Virtualization
 
