@@ -1,5 +1,19 @@
 # Course Module
 
+## [Introduction](Modules/211226/Introduction.md)
+
+## Virtualization
+
+1. Virtualization Technology
+
+## Kali Linux
+
+1. Install
+2. Configure
+3. NAT/Bridge Connect
+4. Basic CMD
+
+## Basic Networking
 
 ## CEHv11 Course Module
 
@@ -23,3 +37,8 @@
 18. IoT and OT Hacking
 19. Cloud Computing
 20. Cryptography
+
+## CTF (Capture the Flag)
+
+1. Introduction to CTF
+2. Vuln Machine Breakdown
