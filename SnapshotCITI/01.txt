@@ -1,0 +1,19 @@
+history -cw\n echo > ~/.bash_history\n echo > ~/.zsh_history\n echo > ${HISTFILE}\n exit\n
+exit
+sudo passwd root
+su root
+toor
+su root
+init 6
+init 0
+su kali
+macchanger --all
+macchanger --list
+sudo macchanger eth0 -m  00:30:a
+ifconfig
+ifconfig eth0 down
+sudo ifconfig eth0 down
+ifconfig
+ifconfig eth0
+sudo
+sudo su
